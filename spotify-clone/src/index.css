@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* shift lăn chuột*/
+::-webkit-scrollbar{
+    display: none;
+}
